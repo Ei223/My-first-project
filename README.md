@@ -1,5 +1,3 @@
-# My-first-project
-This is my first project or contribution.
-<br>
-Author:- Yash Shakya
+#Virtual Mouse Controller
+Made By- Yash Shakya
 
